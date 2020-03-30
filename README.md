@@ -4,4 +4,6 @@ This is the first tile in the repo.
 
 ## Contents
 
-1. Website
+Here are the files in the website.
+
+1. index.html
